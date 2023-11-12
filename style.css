@@ -4,8 +4,47 @@
   box-sizing: content-box;
 }
 
+
 body {
   margin: 0;
-  background-color: lightgray;
+  background-color: yellow;
   font-family: sans-serif;
 }
+body {
+  margin: 0;
+  background-color: rgba(211, 211, 211, 0.86);
+  font-family: sans-serif;
+  background-image: url("Hintergrund_1.1.png"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* Hintergrund */
+
+.textlang {
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  
+}
+/* Css für den Haupttext */
+
+ img {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ 
+ .logos {
+  text-align:center
+
+ }
+ /* Css für das Bild */
+
+ 
+
+ 
+  
+
+
